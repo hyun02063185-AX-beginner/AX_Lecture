@@ -1,0 +1,7 @@
+# 수집 대상 (한 줄에 하나: 영상·재생목록·채널 주소, #은 주석)
+# 조코딩 AX 인재전쟁 재생목록 (실제 기업 인터뷰: 메디테라피, 마이리얼트립, 카카오페이증권, 삼일PwC 등)
+https://www.youtube.com/playlist?list=PLU9-uwewPMe0qknhegfuhndnf-5H30zgJ
+# 철수씨 (중소기업 대표·비전공 실무자의 AI 도입 사례)
+https://www.youtube.com/channel/UCorzN0Qz2vNAUaePWv-fOSQ/videos
+# AI챔피언 (공공기관 AI 전환 사례 공유)
+https://www.youtube.com/channel/UCkCcLoe6auDV857_ohw7lcg/videos
